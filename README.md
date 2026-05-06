@@ -28,4 +28,4 @@ This image provides a diagnostic view of the captured network traffic and system
 ### 4. Lab Environment Reference
 Below is the reference image for the current networking lab setup.
 
-![Lab Reference](image_2026-05-02_221533557.jpg)
+![Lab Reference](Lab%20Environment%20Refrence.png)
